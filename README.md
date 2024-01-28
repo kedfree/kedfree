@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kedfree
-- 🌱 I’m currently learning computer Science @ the University of Victoria
+- 🌱 I’m currently learning Computer Science @ the University of Victoria
+- 📫 Can reach me @ kedfree100@gmail.com
 
 
 <!---
