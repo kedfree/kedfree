@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kedfree
-- 🌱 I’m currently learning Computer Science @ the University of Victoria
-- 📫 Can reach me @ kedfree100@gmail.com
+- 👋 Hi, I’m Kedan!
+- 🌱 I’m currently majoring in Computer Science @ the University of Victoria
+- 📫 You can reach me @ kedfree100@gmail.com
+- 😄 Please check out my projects!
 
 
 <!---
