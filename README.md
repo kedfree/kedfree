@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kedan!
-- 🌱 I’m currently majoring in Computer Science @ the University of Victoria
+- 🌱 I’m a recent Computer Science grad from the University of Victoria
 - 📫 You can reach me @ kedfree100@gmail.com
 - 😄 Please check out my projects!
 
